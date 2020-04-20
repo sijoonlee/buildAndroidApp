@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">세번째 앱</string>
+    <string name="testViewPrompt">동물을 선택하세요</string>
+    <string name="dog">개</string>
+    <string name="cat">고양이</string>
+    <string name="pig">돼지</string>
+    <string name="horse">말</string>
+</resources>
