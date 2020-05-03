@@ -1,0 +1,2 @@
+rootProject.name='NinthApplication'
+include ':app'
